@@ -23,7 +23,7 @@ gem 'progress_bar', '1.3.3'
 gem 'rails',   '6.1'
 gem 'rails-controller-testing', '1.0.5'
 gem 'rails-html-sanitizer', '1.3'
-gem 'rack', '2.2.3'
+gem 'rack', '2.2.3.1'
 gem 'rb-readline'
 gem "recaptcha"
 gem 'sass-rails', '6.0'
